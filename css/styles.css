@@ -10,7 +10,7 @@
 	font-family: Arial;
     /*font-family: Germania-One, Helvetica, Arial, cursive, sans-serif;*/
 	color: #3C3C3C;
-    background-color: #e7e7e7;
+    background-color: #E4E1D9;
     background-size: cover;
 }
 
@@ -37,7 +37,7 @@
 }
 
 .hello {
-	font-size: 24px;
+	font-size: 32px;
 	font-family: Starjedi;
 	letter-spacing: 3px;
 	padding: 10px 50px;
@@ -89,5 +89,21 @@ li {
 
 .showreel {
 	margin-left: 10%;
+	margin-bottom: 50px;
+	display: flex;
+}
+
+.project {
+	margin-left: 10%;
+	margin-bottom: 50px;
+	display: flex;
+
+}
+.footer {
+	font-size: 14px;
+	padding: 0 10%;
+	font-family: 'Raleway';
+	letter-spacing: 3px;
+	margin-bottom: 20px;
 	display: flex;
 }
