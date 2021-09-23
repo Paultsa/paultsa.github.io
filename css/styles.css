@@ -20,9 +20,7 @@
 	font-family: 'Raleway';
 	padding: 50px 50px;
     display: inline-block;
-    flex-direction: column;
     max-width: 50%;
-    margin: 0 auto;
 	text-align: left;
 	
 }
