@@ -87,17 +87,19 @@ li {
 	text-transform: uppercase;
 }
 
+.project_text {
+	margin-bottom: 50px;
+	display: block;
+}
 .showreel {
+	display: inline;
 	margin-left: 10%;
 	margin-bottom: 50px;
-	display: flex;
 }
-
 .project {
 	margin-left: 10%;
 	margin-bottom: 50px;
 	display: flex;
-
 }
 .footer {
 	font-size: 14px;
