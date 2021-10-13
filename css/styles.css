@@ -52,9 +52,25 @@
 	
 }
 
+.side_header_secondary {
+	font-size: 24px;
+	font-family: Starjedi;
+	letter-spacing: 3px;
+	padding: 0 50px;
+	color:#3D4360;
+}
+
 .plain_text {
 	font-size: 18px;
 	padding: 0 50px;
+	font-family: 'Raleway';
+	margin-bottom: 50px;
+
+}
+
+.plain_text_list {
+	font-size: 18px;
+	padding: 0 10px;
 	font-family: 'Raleway';
 	margin-bottom: 50px;
 
@@ -87,6 +103,7 @@ li {
 
 .project_text {
 	margin-bottom: 50px;
+	max-width: 50%;
 	display: block;
 }
 .showreel {
@@ -95,7 +112,7 @@ li {
 	margin-bottom: 50px;
 }
 .project {
-	margin-left: 10%;
+	margin-left: 50px;
 	margin-bottom: 50px;
 	display: flex;
 }
