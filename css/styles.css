@@ -107,3 +107,8 @@ li {
 	margin-bottom: 20px;
 	display: flex;
 }
+
+.link {
+	text-decoration: underline;
+	color: #3D4360;
+}
