@@ -133,3 +133,6 @@ li {
 	text-decoration: underline;
 	color: #3D4360;
 }
+span {
+	display: inline-block;
+}
