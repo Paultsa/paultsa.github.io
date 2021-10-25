@@ -106,6 +106,10 @@ li {
 	max-width: 50%;
 	display: block;
 }
+
+.showreel_text {
+	max-width: 25%;
+}
 .showreel {
 	display: inline;
 	margin-left: 10%;
